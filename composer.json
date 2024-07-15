@@ -1,0 +1,17 @@
+{
+  "name": "hassan/php-mvc-framework-2",
+  "authors": [
+    {
+      "name": "Hassan AIT-JABLI",
+      "email": "hassanjebli2002@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.6"
+  }
+}
